@@ -34,7 +34,7 @@
 
 This project was part of an UI Clone challenge, the idea was to replicate Tesla homepage using Astro and Tailwind.
 
-Deployed [here]().
+Deployed [here](https://tesla-clone-sotodario3.vercel.app/).
 
 <br>
 
